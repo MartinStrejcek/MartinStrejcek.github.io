@@ -1,2 +1,0 @@
-# MartinStrejcek.github.io
-web
